@@ -1,6 +1,8 @@
-pyngrok
 streamlit
+tensorflow-cpu==2.13.0
+scikit-learn
 pandas
 numpy
-tensorflow
 joblib
+matplotlib
+pyngrok
