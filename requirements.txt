@@ -1,0 +1,6 @@
+pyngrok
+streamlit
+pandas
+numpy
+tensorflow
+joblib
