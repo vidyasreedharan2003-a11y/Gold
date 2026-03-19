@@ -355,4 +355,3 @@ if st.button("🚀 Run Forecast", type="primary", use_container_width=True):
         use_container_width=True
     )
 
-streamlit run gold_streamlit/app.py
