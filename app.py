@@ -15,8 +15,8 @@ st.set_page_config(
 )
 
 # ── Constants ────────────────────────────────────────────────
-MODEL_DIR = "gold_streamlit/model"
-DATA_PATH = "gold_streamlit/data/gold.csv"
+MODEL_DIR = "model"
+DATA_PATH = "data/gold.csv"
 LOOKBACK  = 60
 HORIZON   = 10
 TARGET    = "Target_Return"
